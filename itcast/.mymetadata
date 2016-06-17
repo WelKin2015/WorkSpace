@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="itcast0907crmCache"
+  id="myeclipse.1315378109546"
+  context-root="/itcast0907crmCache"
+  j2ee-spec="5.0"
+  archive="itcast0907crmCache.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
